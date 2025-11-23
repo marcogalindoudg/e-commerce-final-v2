@@ -25,3 +25,6 @@ El proyecto se encuentra en fase de **Code Freeze** (congelamiento de código) p
 
 ---
 **Nota:** Consulte el archivo `BACKLOG.md` para ver los pendientes de la revisión final.
+
+.
+
